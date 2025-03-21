@@ -45,5 +45,13 @@
     <ClCompile Include="2025-03-18.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2025-03-21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="array.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
