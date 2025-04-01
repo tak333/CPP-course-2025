@@ -140,6 +140,7 @@
     <ClCompile Include="2025-03-21.cpp" />
     <ClCompile Include="2025-03-25.cpp" />
     <ClCompile Include="2025-03-28.cpp" />
+    <ClCompile Include="2025-04-01.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="array.txt" />
