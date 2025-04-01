@@ -1,4 +1,4 @@
-
+/*
 
 #include <iostream>
 
@@ -76,3 +76,36 @@ int main()
 }
 
 
+*/
+
+
+#include <iostream>
+
+int main()
+{
+	int arr[10] = { 1,2,5,7,9,4 };
+
+	//проход с индексацией
+	for (int i = 0; i < 10; ++i)
+	{
+		std::cout << arr[i] << " ";
+	}
+	std::cout << std::endl;
+
+	//арифметика указателей на индексах
+	for (int i = 0; i < 10; ++i)
+	{
+		std::cout << *(arr + i) << " ";
+	}
+	std::cout << std::endl;
+
+	//арифметика указателей в "чистом виде"
+	int* end = arr + 10;
+	for (int* ptr = arr; ptr < end; ++ptr)
+	{
+		std::cout << *ptr << " ";
+	}
+	std::cout << std::endl;
+
+	return 0;
+}
