@@ -60,6 +60,18 @@
     <ClCompile Include="2025-04-04.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2025-04-08.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2025-04-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2025-04-15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2025-04-18.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="array.txt">
