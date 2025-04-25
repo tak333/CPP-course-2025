@@ -75,6 +75,9 @@
     <ClCompile Include="2025-04-22.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2025-04-25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="array.txt">
